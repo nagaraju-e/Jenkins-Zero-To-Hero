@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: nagdocker3105/spring-app:30
+        image: nagdocker3105/spring-app:5
         ports:
         - containerPort: 8080
